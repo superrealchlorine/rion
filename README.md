@@ -20,13 +20,13 @@ On Debian/Ubuntu:
 
 ## Building & Installation
 
-  make
-  sudo make install
+make
+sudo make install
 
 ## Usage
 
-  rion <address> 
-  example: rion chloride.chlorine.me:49130
+rion [address] 
+example: rion chloride.chlorine.me:49130
 
 ## Credits & Licensing
 
