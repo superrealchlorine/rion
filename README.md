@@ -2,14 +2,21 @@
 
 Minimalist SDL2 canvas runtime for Chloride applications.
 
-## Dependencies
+## Build dependencies
 
 - C99 compiler (gcc or clang)
 - make
-- libsdl2-dev
+- SDL2
 
 On Debian/Ubuntu:
-  sudo apt install build-essential libsdl2-dev
+`sudo apt install build-essential libsdl2-dev`
+
+## Runtime dependencies
+
+- SDL2
+
+On Debian/Ubuntu:
+`sudo apt install libsdl2`
 
 ## Building & Installation
 
@@ -18,7 +25,8 @@ On Debian/Ubuntu:
 
 ## Usage
 
-  rion chloride.chlorine.me:49130
+  rion <address> 
+  example: rion chloride.chlorine.me:49130
 
 ## Credits & Licensing
 
