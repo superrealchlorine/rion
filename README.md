@@ -28,7 +28,7 @@ On Debian/Ubuntu:
 
 `rion [address]`
 
-example: `rion chloride.chlorine.me:49130`
+example: `rion chloride.chlorine.me
 
 ## Credits & Licensing
 
