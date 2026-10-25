@@ -6,7 +6,7 @@ Minimalist SDL2 canvas runtime for Chloride applications.
 
 - C99 compiler (gcc or clang)
 - make
-- SDL2
+- SDL2 headers
 
 On Debian/Ubuntu:
 `sudo apt install build-essential libsdl2-dev`
