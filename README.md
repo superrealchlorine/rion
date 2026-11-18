@@ -20,6 +20,8 @@ On Debian/Ubuntu:
 
 ## Building & Installation
 
+`git clone https://github.com/superrealchlorine/rion.git`
+
 `make`
 
 `sudo make install`
