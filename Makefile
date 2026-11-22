@@ -1,7 +1,7 @@
 PREFIX ?= /usr/local
 CC ?= cc
 CFLAGS ?= -O2 -std=gnu99 -Wall -Wextra -Wno-unused-parameter
-CPPFLAGS += -I./wasm3/source
+CPPFLAGS += -I./wasm3/source -DMAP_NORESERVE=0
 LDLIBS += -lm
 
 TARGET = rion
