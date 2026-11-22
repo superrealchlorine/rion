@@ -20,7 +20,7 @@ On Debian/Ubuntu:
 
 ## Building & Installation
 
-`git clone https://github.com/superrealchlorine/rion.git`
+`git clone --recurse-submodules https://github.com/superrealchlorine/rion.git`
 
 `make`
 
