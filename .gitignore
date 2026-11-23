@@ -1,3 +1,6 @@
 rion
 *.o
 .DS_Store
+*.o
+*.exe
+rion
